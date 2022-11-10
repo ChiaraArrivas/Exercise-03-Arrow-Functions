@@ -22,6 +22,9 @@ let tot = divide(subtract(multiply(sum(2, 4), sum(5,2)), 2), 5);
 
 value(tot);
 
+/*Avevo frainteso la consegna e ho svolto nuvamente l'esercizio.
+Ti lascio la prima versione di come l'avevo svolto così ti fai due risate. */
+
 /*const arrowOne = (a, b) => a+b;
 let sum = arrowOne(2, 4);
 
@@ -37,4 +40,3 @@ let  divide =arrowFour(subtract, 5);
 console.log(divide);*/
 
 
-//Avevo frainteso la consegna.
